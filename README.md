@@ -1,8 +1,8 @@
 <h1 align=center> ✨《崩坏：星穹铁道》活动日历 ✨</h1>
 
-![3.3](https://cloudgame-webstatic.mihoyo.com/clgm-admin-static/2025/05/14/badf0ef94a5e71c33b1698cc7efaf617_2720411489224269745.png) 
+![3.4](https://launcher-webstatic.mihoyo.com/launcher-public/2025/06/26/f23d62fda7a2b2d48f6fe10bbcd92cb8_6428571952306998435.webp) 
 
-<span style="color:gray">最后更新日期：2025年5月31日</span>
+<span style="color:gray">最后更新日期：2025年8月9日</span>
 
 ---
 
